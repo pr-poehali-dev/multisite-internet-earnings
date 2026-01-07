@@ -94,9 +94,7 @@ export default function Methods() {
       <section className="py-12 bg-gradient-to-br from-primary/10 to-secondary/10">
         <div className="container mx-auto px-4">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Способы заработка в интернете</h1>
-          <p className="text-lg text-muted-foreground mb-8">
-            Более 250 проверенных способов с рейтингами от реальных пользователей
-          </p>
+          <p className="text-lg text-muted-foreground mb-8">Проверенные способы с рейтингами от реальных пользователей</p>
 
           <div className="flex flex-col md:flex-row gap-4 mb-8">
             <Input placeholder="Поиск по названию..." className="md:max-w-md" />
